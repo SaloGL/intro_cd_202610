@@ -46,7 +46,7 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 <p align="center">
     <img src="https://e1.365dm.com/15/04/800x600/Aaron-Lennon-Everton-2015_3293656.jpg?20150422131522" width="350"/>
     <img src="https://s.hs-data.com/gfx/person/l/142279.jpg?fallback=male" width="200"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Signal_Iduna_Park_2019.jpg" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/20180601_FIFA_Friendly_Match_Czech_Republic_vs._Australia_Aaron_Mooy_850_0283.jpg" width="166"/>
 </p>
 
 ---
