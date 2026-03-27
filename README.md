@@ -24,7 +24,7 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 
 ## Ejemplos visuales
 
-Imagen simple  
+
 ![Celebración de gol](celebracion.jpg)
 
 Imagen desde URL externa  
