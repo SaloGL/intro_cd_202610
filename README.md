@@ -48,7 +48,6 @@ Varias imágenes en fila
 
 ---
 
-## Bloques de Código
 
 Python  
 ```python
