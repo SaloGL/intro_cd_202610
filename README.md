@@ -22,15 +22,12 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 
 ---
 
-## Ejemplos visuales
-
-Imagen simple  
 ![Celebración de gol](i:turn0image31)
 
-Imagen desde URL externa  
+
 ![Estadio lleno](i:turn0image94)
 
-Imagen con enlace (clickeable)  
+ 
 [![Balón en cancha](i:turn0image63)](https://www.fifa.com)
 
 Imagen con tamaño personalizado  
