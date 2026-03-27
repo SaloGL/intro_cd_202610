@@ -53,6 +53,16 @@ Tenemos unos datos recolectados de jugadores de la premier league
 ### Tabla Visualización
 
 
++-----------------+-----+----------------+-----------+------------+-------------------+------------------------+---------------------+
+| NOMBRE          |EDAD |     LIGA       | TEMPORADA | POSICIÓN   | CLUB ACTUAL       | MINUTOS JUGADOS TOTAL  | MINUTOS LOCAL       |
++-----------------+-----+----------------+-----------+------------+-------------------+------------------------+---------------------+
+| Aaron Cresswell | 32  | Premier League | 2018/2019 | Defender   | West Ham United   | 1589                   | 888                 |
+| Aaron Lennon    | 35  | Premier League | 2018/2019 | Midfielder | Burnley           | 1217                   | 487                 |
+| Aaron Mooy      | 32  | Premier League | 2018/2019 | Midfielder | Huddersfield Town | 2327                   | 1190                |
+| Aaron Ramsey    | 31  | Premier League | 2018/2019 | Midfielder | Arsenal           | 1327                   | 689                 |
+| Aaron Rowe      | 22  | Premier League | 2018/2019 | Forward    | Huddersfield Town | 69                     | 14                  |
++-----------------+-----+----------------+-----------+------------+-------------------+------------------------+---------------------+
+
 
 ```python
 import pandas as pd
