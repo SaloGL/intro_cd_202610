@@ -22,8 +22,6 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 
 ---
 
-## Ejemplos visuales
-
 
 ![Celebración de gol](celebracion.jpg)
 
