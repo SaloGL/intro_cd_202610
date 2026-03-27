@@ -4,11 +4,11 @@ Repositorio de la clase de Introducción a la Ciencia de Datos 2026/03/26
 # Proyecto de Ciencia de Datos aplicado al Fútbol
 ## Análisis de estadísticas de jugadores y equipos
 ### Descripción
-El presente proyecto tiene como objetivo aplicar conceptos fundamentales de la ciencia de datos mediante el análisis de información relacionada con el fútbol. A partir de un conjunto de datos que contiene estadísticas de jugadores y/o equipos (como goles, asistencias, partidos jugados, entre otros), se busca explorar patrones, identificar tendencias y extraer conclusiones relevantes a través del uso de herramientas básicas de análisis de datos.
+> El presente proyecto tiene como objetivo aplicar conceptos fundamentales de la ciencia de datos mediante el análisis de información relacionada con el fútbol. A partir de un conjunto de datos que contiene estadísticas de jugadores y/o equipos (como goles, asistencias, partidos jugados, entre otros), se busca explorar patrones, identificar tendencias y extraer conclusiones relevantes a través del uso de herramientas básicas de análisis de datos.
 
-Se busca enfocar en el desarrollo de habilidades esenciales como la limpieza de datos, el análisis exploratorio (EDA) y la visualización de información, utilizando lenguajes y librerías como Python, Pandas y Matplotlib. Además, se pretende interpretar los resultados obtenidos de manera clara y comprensible, facilitando la toma de decisiones basada en datos.
+> Se busca enfocar en el desarrollo de habilidades esenciales como la limpieza de datos, el análisis exploratorio (EDA) y la visualización de información, utilizando lenguajes y librerías como Python, Pandas y Matplotlib. Además, se pretende interpretar los resultados obtenidos de manera clara y comprensible, facilitando la toma de decisiones basada en datos.
 
-Este está orientado a un nivel introductorio, por lo que prioriza la comprensión de los procesos sobre la complejidad técnica, permitiendo evidenciar cómo la ciencia de datos puede aplicarse en contextos reales y de interés general, como el deporte.
+> Este está orientado a un nivel introductorio, por lo que prioriza la comprensión de los procesos sobre la complejidad técnica, permitiendo evidenciar cómo la ciencia de datos puede aplicarse en contextos reales y de interés general, como el deporte.
 
 #### Objetivos principales
 - Limpieza de datos
@@ -51,7 +51,7 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
 
 ---
 
-Tenemos unos datos recolectados de jugadores de la premier league
+> Tenemos unos datos recolectados de jugadores de la premier league
 
 ### Tabla Visualización (Rendimiento jugadores)
 
