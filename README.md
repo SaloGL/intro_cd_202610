@@ -53,20 +53,33 @@ Tenemos unos datos recolectados de jugadores de la premier league
 ### Tabla Visualización
 
 
-+-----------------+-----+----------------+-----------+------------+-------------------+------------------------+---------------------+
-| NOMBRE          |EDAD |     LIGA       | TEMPORADA | POSICIÓN   | CLUB ACTUAL       | MINUTOS JUGADOS TOTAL  | MINUTOS LOCAL       |
-+-----------------+-----+----------------+-----------+------------+-------------------+------------------------+---------------------+
-| Aaron Cresswell | 32  | Premier League | 2018/2019 | Defender   | West Ham United   | 1589                   | 888                 |
-| Aaron Lennon    | 35  | Premier League | 2018/2019 | Midfielder | Burnley           | 1217                   | 487                 |
-| Aaron Mooy      | 32  | Premier League | 2018/2019 | Midfielder | Huddersfield Town | 2327                   | 1190                |
-| Aaron Ramsey    | 31  | Premier League | 2018/2019 | Midfielder | Arsenal           | 1327                   | 689                 |
-| Aaron Rowe      | 22  | Premier League | 2018/2019 | Forward    | Huddersfield Town | 69                     | 14                  |
-+-----------------+-----+----------------+-----------+------------+-------------------+------------------------+---------------------+
 
 
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
 
-df = pd.read_csv("estadisticas_futbol(in).csv")
-print(df.head())
+
+
++-----------------+-------------------+------------+------------------------+-----------------------+------------------+------------------+
+| full_name       | Current Club      | position   | minutes_played_overall | goals_overall         | assists_overall  | shots_total      |
++-----------------+-------------------+------------+------------------------+-----------------------+------------------+------------------+
+| Aaron Cresswell | West Ham United   | Defender   | 1589                   | 0                     | 3                | 9                |
+| Aaron Lennon    | Burnley           | Midfielder | 1217                   | 2                     | 0                | 14               |
+| Aaron Mooy      | Huddersfield Town | Midfielder | 2327                   | 3                     | 1                | 46               |
+| Aaron Ramsey    | Arsenal           | Midfielder | 1327                   | 4                     | 6                | 36               |
+| Aaron Rowe      | Huddersfield Town | Forward    | 69                     | 0                     | 0                | 0                |
++-----------------+-------------------+------------+------------------------+-----------------------+------------------+------------------+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
