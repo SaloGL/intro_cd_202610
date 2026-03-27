@@ -42,7 +42,7 @@ Introductorio, priorizando la comprensión de procesos sobre la complejidad téc
     <img src="https://www.mundodeportivo.com/files/image_948_465/files/fp/uploads/2025/10/20/68f65c7809596.r_d.423-272-10872.jpeg" alt="Entrenamiento de equipo" width="500"/>
 </p>
 
-
+#### TOP JUGADORES DE LA MUESTRA 
 <p align="center">
     <img src="https://e1.365dm.com/15/04/800x600/Aaron-Lennon-Everton-2015_3293656.jpg?20150422131522" width="350"/>
     <img src="https://s.hs-data.com/gfx/person/l/142279.jpg?fallback=male" width="200"/>
